@@ -3,4 +3,8 @@
     <string name="displayButton">Display</string>
     <string name="enter_something">Enter Something</string>
     <string name="show">Display what the user enters</string>
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
 </resources>
